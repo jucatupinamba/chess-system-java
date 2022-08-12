@@ -37,7 +37,7 @@ public class Board {
         return pieces[position.getRow()][position.getColumn()];
     }
 
-    private boolean positionExists(Position position) {
+    public boolean positionExists(Position position) {
         return positionExists(position.getRow(), position.getColumn());
     }
 

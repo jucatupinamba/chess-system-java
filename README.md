@@ -1,8 +1,8 @@
-# chess-system-java
 <h1>Projeto Jogo de Xadrez</h1>
 
-<p>**Projeto Chess System Java.** Jogo de Xadrez criado em Java
-utilizando os pilares da Programação Orientada ao Objeto.<p>
+<h3>Projeto Chess System Java.</h3>
+
+<p>Jogo de Xadrez criado em Java utilizando os pilares da Programação Orientada ao Objeto.<p>
 
 ![Jogo de Xadrez Java](https://github.com/jucatupinamba/chess-system-java/blob/master/img/chess-system.png)
 

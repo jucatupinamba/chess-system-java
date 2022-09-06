@@ -4,7 +4,7 @@
 <p>**Projeto Chess System Java.** Jogo de Xadrez criado em Java
 utilizando os pilares da Programação Orientada ao Objeto.<p>
 
-![Jogo de Xadrez Java}(https://github.com/jucatupinamba/chess-system-java/blob/master/img/chess-system.png)
+![Jogo de Xadrez Java](https://github.com/jucatupinamba/chess-system-java/blob/master/img/chess-system.png)
 
 <p>Destaque para o poder do polimorfismo no código para manipulação
 das peças do jogo. Durante o desenvolvimento o grande desafio e conquista
